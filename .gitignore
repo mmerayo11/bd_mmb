@@ -1,0 +1,4 @@
+# Ignorar credenciales de AWS
+.aws/
+credentials
+BDA/docker_compose/JupyterNotebook/notebooks/.aws/
